@@ -13,7 +13,7 @@ class Solution {
 				}
 			}
 		}
-		int k=1;
+
 		for (int j = 1; j < A[0].length; j++) {
 			int num = 0;
 			for (int i = 0; i < A.length; i++) {
